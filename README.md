@@ -1,5 +1,7 @@
 # Revolutionizing Airbnb in Cape Town with a Cutting-Edge Recommender System
 
+![image](https://user-images.githubusercontent.com/113252977/226000390-2453906d-2381-4f02-b084-c533c6646a17.png)
+
 ## Collaborators:
 
 >Nurulain Abdi: https://github.com/Nurul-ain2022
@@ -18,7 +20,7 @@ The aim of this project is to create a recommender system that will enable stake
 ## Business Problem
 A South-African based housing company wants to venture into the Airbnb business and needs to create a sustainable and profitable business model that can compete with established players in the market. The company's stakeholders aim at ensuring customer retention,customer satisfaction and boost their business as a new party entity in the Airbnb Platform. As Data Scientists, we are expected to address questions as well as provide recommendations.
 
-### Some of the questions we are expected to answer are:
+### Some of the questions we'll answer are:
 
 1.What is the best month to visit Cape Town if you are on a budget?
 
@@ -32,6 +34,8 @@ A South-African based housing company wants to venture into the Airbnb business 
 We extracted the data from InsideAirbnb which has data from the Airbnb platform. Link to the dataset: "http://insideairbnb.com/get-the-data/"
 
 ## Predictive Modeling
->Content Based Filtering Recommendetion System 
+1.Time Series with ARIMA
 
->Sentiment Analysis
+2.Content Based Filtering Recommendetion System 
+
+2.Sentiment Analysis
