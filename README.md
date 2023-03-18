@@ -35,3 +35,7 @@ We extracted the data from InsideAirbnb which has data from the Airbnb platform.
 >Content Based Filtering Recommendetion System 
 
 >Sentiment Analysis
+
+## For more information
+
+See the full analysis in the [Jupyter Notebook](https://github.com/MercyMoraa/InsideAirbnb/blob/Nurulain/EDA/Finalnotebook.ipynb) or review this [presentation](https://github.com/MercyMoraa/InsideAirbnb/blob/main/FINAL%20PRESENTATION.pdf). 
